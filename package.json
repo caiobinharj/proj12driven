@@ -1,0 +1,21 @@
+{
+  "name": "shopping-list-api",
+  "version": "1.0.0",
+  "description": "API REST para gerenciamento de lista de compras",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "shopping-list",
+    "node",
+    "express"
+  ],
+  "author": "Seu Nome",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
